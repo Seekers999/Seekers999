@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Seekers999
-- 👀 I’m interested in web sites
-- 🌱 I’m currently learning HTML and web development
+- 👋 Hi, I’m Nikita Mitevski
+- 👀 I’m interested in web development and cybersecurity
+- 🌱 I’m currently learning React and JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ... mitevskinikita@gmail.com
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 
 <!---
